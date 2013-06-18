@@ -1,1 +1,3 @@
-<!-- footer.php -->
+<!-- begin footer.php -->
+
+<!-- end footer.php -->

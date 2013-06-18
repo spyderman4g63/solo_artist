@@ -12,4 +12,4 @@ License URI:
 WordPress requires a style.css file in the theme root, so we'll import our style sheets here
 */
 
-@import url('css/main.css');
+@import url('css/screen.css');

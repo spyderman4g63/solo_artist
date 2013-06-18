@@ -1,1 +1,4 @@
-<!-- sidebar.php -->
+<!-- begin sidebar.php -->
+
+
+<!-- end sidebar.php -->

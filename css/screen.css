@@ -57,3 +57,23 @@ a img {
 /* line 116, ../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
+
+/* line 10, ../scss/screen.scss */
+body {
+  margin: 0 auto;
+  text-align: center; }
+
+/* line 14, ../scss/screen.scss */
+section#main {
+  text-align: left; }
+
+/* line 17, ../scss/screen.scss */
+header#top {
+  background: #f0f0f0;
+  border-bottom: 1px solid gainsboro;
+  height: 4em; }
+
+/* line 22, ../scss/screen.scss */
+section#topbar {
+  background: #3d3d3d;
+  color: #fff; }

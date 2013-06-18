@@ -1,0 +1,15 @@
+/*
+Theme Name: Solo Artis
+Theme URI: https://github.com/spyderman4g63/solo_artist
+Description: A wordpress theme
+Author: Johnathan Ward
+Author URI: http://johnathanward.com/
+Version: 1.0
+Tags: 
+License: TBD
+License URI:
+
+WordPress requires a style.css file in the theme root, so we'll import our style sheets here
+*/
+
+@import url('css/main.css');

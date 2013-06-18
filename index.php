@@ -1,2 +1,2 @@
 <!-- index.php -->
-<html>
+<?php get_header();?>
